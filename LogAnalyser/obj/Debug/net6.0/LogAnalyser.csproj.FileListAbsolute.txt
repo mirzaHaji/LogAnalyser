@@ -1,0 +1,15 @@
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\bin\Debug\net6.0\LogAnalyser.exe
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\bin\Debug\net6.0\LogAnalyser.deps.json
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\bin\Debug\net6.0\LogAnalyser.runtimeconfig.json
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\bin\Debug\net6.0\LogAnalyser.dll
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\bin\Debug\net6.0\LogAnalyser.pdb
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.csproj.AssemblyReference.cache
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.AssemblyInfoInputs.cache
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.AssemblyInfo.cs
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.csproj.CoreCompileInputs.cache
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.dll
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\refint\LogAnalyser.dll
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.pdb
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\LogAnalyser.genruntimeconfig.cache
+D:\mirza\RiderProjects\LogAnalyser\LogAnalyser\obj\Debug\net6.0\ref\LogAnalyser.dll
